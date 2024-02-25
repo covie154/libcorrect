@@ -41,3 +41,7 @@ cache:
     - C:\projects\tools\ninja
     - C:\projects\tools\cmake
     - C:\projects\tools\llvm-installer.exe
+
+artifacts:
+    - path: "lib\Release\fec.dll"
+      name: fec.dll
